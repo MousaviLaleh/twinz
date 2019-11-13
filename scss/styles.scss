@@ -26,14 +26,13 @@ h3{
     background: url('../img/img-04.jpg') no-repeat center top fixed;
     background-size: cover;
     background-attachment: fixed;
-    min-height: 700px;
 
     .dark-overlay{
         background-color: $dark-overlay;
         top: 0;
         left: 0;
         width: 100%;
-        min-height: 700px;
+        min-height: 620px;
     }
 
     .home-inner{
@@ -44,16 +43,6 @@ h3{
         opacity: 0.9;
     }
 
-    .fa{
-        color: rgb(190, 134, 134);
-        background: #fff;
-        padding: 4px;
-        border-radius: 5px;
-        font-size:$landing-icon-size;
-    }
+ 
 }
 
-
-#footer{
-    padding: 3% 15%;
-}
