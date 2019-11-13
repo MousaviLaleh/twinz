@@ -26,6 +26,7 @@ h3{
     background: url('../img/img-04.jpg') no-repeat center top fixed;
     background-size: cover;
     background-attachment: fixed;
+    min-height: 620px;
 
     .dark-overlay{
         background-color: $dark-overlay;
