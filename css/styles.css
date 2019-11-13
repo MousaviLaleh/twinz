@@ -1,0 +1,40 @@
+body {
+  background: #ddb6c6;
+  color: #fff;
+  font-family: 'Montserrat', sans-serif; }
+
+h1 {
+  font-family: 'Merienda One', cursive; }
+
+h3 {
+  font-family: 'Lemonada', cursive; }
+
+.navbar {
+  border-bottom: #ddb6c6 3px solid;
+  opacity: 0.7; }
+
+#home-section {
+  background: url("../img/img-04.jpg") no-repeat center top fixed;
+  background-size: cover;
+  background-attachment: fixed;
+  min-height: 700px; }
+  #home-section .dark-overlay {
+    background-color: rgba(184, 139, 165, 0.7);
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    min-height: 700px; }
+  #home-section .home-inner {
+    padding-top: 140px; }
+  #home-section .card-form {
+    opacity: 0.9; }
+  #home-section .fa {
+    color: #be8686;
+    background: #fff;
+    padding: 4px;
+    border-radius: 5px;
+    font-size: 20px; }
+
+#footer {
+  padding: 3% 15%; }
